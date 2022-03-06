@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devwsantos7&label=Profile%20views&color=0e75b6&style=flat" alt="devwsantos7" /> </p>
 
-- 🌱 Stack: **Java, JSP, Servlets, JDBC, SQL**
-
 - 📫 Como me encontrar: **dev.wsantos@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
